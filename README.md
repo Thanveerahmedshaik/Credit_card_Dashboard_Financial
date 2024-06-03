@@ -3,8 +3,7 @@ Power Bi Dashboard
 
 Project Objective:
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
-![image](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/assets/70219041/319c20d0-08f9-4bdb-9234-913b13f20c2e)
-
+ 
 Import data to SQL database![image](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/assets/70219041/1181a0c1-b7fa-4329-9c4b-c8785a12c407)
 1.Prepare csv file 
 2.Create tables in SQL
