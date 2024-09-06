@@ -1,5 +1,10 @@
 # Credit Card Financial Dashboard
+
 ## Power Bi Dashboard
+[Credit Card Transaction Report](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_CardTransaction__Report.pdf)
+
+[Credit Card Customer Report](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_Card_Report_customer.pdf)
+
 
 ## Project Objective:
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
