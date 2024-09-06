@@ -1,4 +1,4 @@
-# Credit_card_Dashboard_Financial
+# Credit Card Financial Dashboard
 ## Power Bi Dashboard
 
 ## Project Objective:
