@@ -21,4 +21,4 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - Overall Delinquent rate is 6.06%
 
 
-[Credit_project](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_Card_Report_customer.pdf)
+[Credit Card Transaction Report](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_Card_Report_customer.pdf)
