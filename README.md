@@ -22,3 +22,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 
 [Credit Card Transaction Report](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_Card_Report_customer.pdf)
+
+[Credit Card Customer Report](https://github.com/Thanveerahmedshaik/Credit_card_Dashboard_Financial/blob/main/Credit_Card_Report_customer.pdf)
+
